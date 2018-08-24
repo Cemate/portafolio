@@ -1,0 +1,19 @@
+[ {
+  "frase" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+  "nombre" : "Chelo Monjaráz G.",
+  "subtitulo" : "Desarrollador web",
+  "twitter" : "@cheloMg",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/portafolio-a6fb8.appspot.com/o/team-1.jpg?alt=media&token=88e38217-d0a0-4b25-b6b4-3971ca69f18c"
+}, {
+  "frase" : "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+  "nombre" : "Angeline Bowyer",
+  "subtitulo" : "Diseñadora web",
+  "twitter" : "@angelina_bowyer",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/portafolio-a6fb8.appspot.com/o/team-2.jpg?alt=media&token=7228814f-f74d-4fe3-8323-c363778c9139"
+}, {
+  "frase" : "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "nombre" : "Patrick Anderson",
+  "subtitulo" : "Art. Director",
+  "twitter" : "@artPatrick",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/portafolio-a6fb8.appspot.com/o/team-3.jpg?alt=media&token=24fc4b76-3fba-4cb8-b3b5-c5aa0a7718e1"
+} ]
